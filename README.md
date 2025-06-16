@@ -60,3 +60,8 @@ _If you find this helpful or inspiring, give it a star and follow my journey on 
 This project follows semantic versioning:
 
 - **v1.0**: Initial release – basic LDW implementation with OpenCV & HSV
+
+**Improvements for Later Version**
+- Completion of leftover Sliding Window Development in V1.0
+- Experimentation with Canny Edge Detections & Hough Line Transforms as alternative strategies
+- Full lane tracking with polynomial fits and curvature estimation
