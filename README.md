@@ -48,7 +48,7 @@ Author
 Abhiram Pavuluri  
 ADAS Engineer | Self-taught Developer | Building Vision One Frame at a Time  
 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhiram-pavuluri/)
 
 
 This is a learning-first project. Suggestions and improvements are welcome!
