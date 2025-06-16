@@ -13,10 +13,14 @@ Lane Departure Warning is a basic yet critical ADAS feature that monitors lane m
 
 
 **What This Project Does**
-- Captures screen or video input
-- Detects lane lines using image processing techniques (Canny edge detection, ROI masking, Hough Transform, etc.)
-- Applies smoothing for stability using `deque`
-- Identifies lane drift and triggers a warning
+
+- Captures GTA 5 window 
+- Uses basic image processing techniques, including:
+  - Region of Interest (ROI) masking
+  - Perspective transform (bird’s eye approximation)
+  - Histogram-based lane base point detection
+- Detects **lane starting positions** in a front-view driving perspective
+- Triggers a visual lane departure warning when drift is detected
 
 **Tech Stack**
 - Python
